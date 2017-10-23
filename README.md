@@ -1,5 +1,7 @@
 ## Okta + Meteor Chef example
 
+cd into the code file
+
 Make sure to meteor add andrewvanbeek-okta:oktameteor
 
 And to meteor add andrewvanbeek-okta:accounts-okta
