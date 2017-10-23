@@ -1,0 +1,28 @@
+{
+  "public": {},
+  "private": {
+    "oAuth": {
+      "facebook": {
+        "appId": "",
+        "secret": ""
+      },
+      "github": {
+        "clientId": "",
+        "secret": ""
+      },
+      "google": {
+        "clientId": "",
+        "secret": ""
+      }, "okta": {
+        "clientId": "your client id",
+        "secret": "your secret",
+        "oktaauthorizeurl": "{your okta url including .okta.com}/oauth2/v1/authorize",
+        "redirecturi": "http://localhost:3000"
+      },
+      "twitter": {
+        "consumerKey": "",
+        "secret": ""
+      }
+    }
+  }
+}
